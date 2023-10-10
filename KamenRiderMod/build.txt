@@ -1,0 +1,3 @@
+displayName = Kamen Rider
+author = Ookami
+version = 0.1
