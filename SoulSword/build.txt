@@ -1,0 +1,3 @@
+displayName = Soul Sword Terraria v1.4
+author = ShahWolf
+version = 1.4

@@ -1,0 +1,5 @@
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\SoulSword\obj\Debug\net6.0\SoulSword.csproj.AssemblyReference.cache
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\SoulSword\obj\Debug\net6.0\SoulSword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\SoulSword\obj\Debug\net6.0\SoulSword.AssemblyInfoInputs.cache
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\SoulSword\obj\Debug\net6.0\SoulSword.AssemblyInfo.cs
+C:\Users\user\Documents\My Games\Terraria\tModLoader\ModSources\SoulSword\obj\Debug\net6.0\SoulSword.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0JRBohCWJfzxYdh7IYfqRBSPhfuuGQoGwY5SWDs6v/hW3dsty8V7d0tBAQbYTpGqUVjnKbkg4MULyOe60lZCTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\SoulSword\\SoulSword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
